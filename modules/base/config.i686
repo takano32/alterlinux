@@ -63,7 +63,6 @@ case "$AURHELPER" in
             --mflags "--skippgpcheck"
             --aur
             --skipreview
-            --noupgrademenu
             --removemake
         )
     ;;
